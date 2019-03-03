@@ -4,11 +4,11 @@
 The group project is about on 'How to scrap the news article from websites and their sentiment analysis'. Techniques like Data Scrapping, Lemmatization, Stemming, Vectorization are used to analyze the sentiments and behaviors.
 
 ## Usage:
->News Data Scraping.ipynb
+> Jupyter Notebook: News Data Scraping.ipynb
 >>For scraping News Article file 'NewsPapers.json' is used, which contains news website links, implemented in 'News Data Scraping.ipynb' file.
 >>Scrapped data is saved in .csv format
 
->CSYE 7245- Big-Data Systems & Intelligence Analytics Project.ipynb
+> Jupyter Notebook: CSYE 7245- Big-Data Systems & Intelligence Analytics Project.ipynb
 >>Sentiment Analysis and Machine Learning is implemented in 'CSYE 7245- Big-Data Systems & Intelligence Analytics Project.ipynb'
 
 ## Links:
